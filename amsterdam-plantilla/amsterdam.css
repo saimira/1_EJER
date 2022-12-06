@@ -1,0 +1,182 @@
+.flexcontainer {
+    display: flex;
+    width: auto;
+    padding: 10px;
+}
+#imgizq {
+    width: 100px;
+    height: 1500px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-image: url("flag-netherlands-1f1f3-1f1f1.svg");
+}
+#imgder {
+    width: 100px;
+    height: 1500px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-image: url("cheese-wedge-1f9c0.svg");
+}
+#center {
+    width: 1000px;
+    height: 1500px;
+    background-color: #dc131d;  
+    padding-left: 100px;
+    padding-right: 100px;
+    
+     
+}
+
+
+h1 {
+    color: white;
+    /*text-transform:uppercase;*/
+    letter-spacing: 0.4em;
+    font-size: 25px;
+    
+}
+
+#sinfondo {
+    color: white;
+    width: 600px;
+    float: left;
+    margin: 10px;
+    
+    
+}
+.fondonegroiz1 {
+    
+    background-color: black;
+    color: white;
+    width: 550px;
+    float: left;
+    clear: both;
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    border-radius: 10px;
+
+}
+.fondonegroder2 {
+    background-color: black;
+    color: white;
+    width: 550px;
+    float: right;
+    clear: both;
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    border-radius: 10px;
+
+}
+.fondonegroiz3 {
+    
+    background-color: black;
+    color: white;
+    width: 550px;
+    float: left;
+    clear: both;
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    border-radius: 10px;
+}
+.fondonegroder4 {
+    background-color: black;
+    color: white;
+    width: 550px;
+    float: right;
+    clear: both;
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    border-radius: 10px;
+
+}
+hr {
+    width: 250px;
+    height: 3px;
+    background-color: white;
+    border-radius: 10px;
+    
+}
+aside {
+    clear: both;
+    width: auto;
+    text-align: center;
+}
+#fin {
+    background-color: white;
+}
+
+@font-face {
+    font-family: "titulo";
+    src: url(dancing-script.woff2);
+}
+#menesqui {
+    background-color: white;
+    color: black;
+    text-align: right;
+    width: 240px;
+    height: auto;
+    float: left;
+    position:absolute;
+    
+    
+    
+}
+.flexcontainer{
+    float: left;
+}
+#cita {
+    font-weight: bold;
+    margin-right: 5px;
+    font-size: 10px;
+}
+#mensaje {
+    font: 15px titulo, verdana, sans-serif;
+    margin-right: 10px;
+    
+
+    
+
+
+
+}
+body {
+    
+position: relative;
+}
+
+.rojo {
+    color: red;
+    font-size: 21px;
+
+}
+
+.verde{
+    color: green;
+}   
+.azul{
+    color: blue;
+
+}
+.negro {
+    color: black;
+    font-size: 21px;
+    
+}
+.amarillo{
+    color: yellow;
+}
+.rosa  {
+    color: #ff0080;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+
+}
